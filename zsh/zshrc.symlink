@@ -49,3 +49,4 @@ export SDKMAN_DIR="/home/ngoch/.sdkman"
 
 export NVM_DIR="/home/ngoch/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+export PATH="/home/ngoch/Dev/ExtJS/Sencha/Cmd/6.1.3.42/..:$PATH"

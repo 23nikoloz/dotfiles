@@ -32,7 +32,7 @@
       "atom-dark-syntax"
     ]
   editor:
-    fontFamily: "Menlo"
+    fontFamily: "DejaVu Sans Mono"
     fontSize: 15
     invisibles: {}
     preferredLineLength: 150
